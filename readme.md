@@ -14,4 +14,4 @@ Resume Section: Provide a link to download my resume in PDF format.
 
 Contact Section: Includes my contact information, such as email address and phone number.
 
-Footer: Added a copyright notice and any additional links or information.
+Footer: Added a copyright notice and any additional social media links or information.
